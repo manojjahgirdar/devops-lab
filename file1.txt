@@ -1,2 +1,2 @@
-Hello Worldclear
-Hello Worldgit log
+Hello Worldclear sg
+Hello Worldgit logger
